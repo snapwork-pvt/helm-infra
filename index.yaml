@@ -9,6 +9,6 @@ entries:
     name: helm-infra
     type: application
     urls:
-    - https://roshan8.github.io/helm-chart/helm-infra-0.1.0.tgz
+    - https://roshan8.github.io/helm-infra/helm-infra-0.1.0.tgz
     version: 0.1.0
 generated: "2022-10-07T17:43:12.527006+05:30"
