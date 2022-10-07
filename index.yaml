@@ -3,12 +3,12 @@ entries:
   helm-infra:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-07T17:43:12.527799+05:30"
+    created: "2022-10-08T01:22:08.516873+05:30"
     description: A Helm chart for Kubernetes
-    digest: 3865a9e01b7d0cdd401ac07d88eff28362d747f8e80cad190c29c881924418eb
+    digest: 84720ec9e0a66d2f87739392a85199a63e06140cd988979fd1b6da674dc7f2c3
     name: helm-infra
     type: application
     urls:
-    - https://roshan8.github.io/helm-infra/helm-infra-0.1.0.tgz
+    - https://opsmonk.github.io/helm-infra/helm-infra-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-07T17:43:12.527006+05:30"
+generated: "2022-10-08T01:22:08.516414+05:30"
