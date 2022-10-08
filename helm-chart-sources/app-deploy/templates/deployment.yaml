@@ -35,7 +35,7 @@ spec:
           imagePullPolicy: {{ .Values.image.pullPolicy }}
           envFrom:
           - secretRef:
-              name: app-secret          
+              name: app-secrets        
           ports:
             - name: http
               containerPort: 80
