@@ -4,6 +4,7 @@
 
 replicaCount: 1
 namespace: default
+containerPort: 80
 
 image:
   repository: nginx
