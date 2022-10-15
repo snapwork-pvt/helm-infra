@@ -9,6 +9,6 @@ entries:
     name: helm-infra
     type: application
     urls:
-    - https://opsmonk.github.io/helm-infra/helm-infra-0.1.0.tgz
+    - https://snapwork-pvt.github.io/helm-infra/helm-infra-0.1.0.tgz
     version: 0.1.0
 generated: "2022-10-08T01:22:08.516414+05:30"
